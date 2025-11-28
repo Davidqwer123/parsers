@@ -1,14 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Повний парсер product-сторінки (Playwright async).
-Підготовка:
-    pip install playwright
-    playwright install
-Запуск:
-    python parser_playwright_full.py
-"""
+
 
 import asyncio
 import re
